@@ -1,6 +1,6 @@
 ﻿# 🚀 Bootcamp Randstad - Backend com .NET
 
-![img.png](./docs/DioDotnet.png)
+![DioDotnet](./docs/DioDotnet.png)
 
 - Este repositório contém uma coleção dos desafios desenvolvidos durante o bootcamp [**Randstad - Backend com .NET**](https://www.dio.me/bootcamp/coding-future-back-end-dot-net) da plataforma DIO (Digital Inovation One)
 - Cada projeto explora diferentes conceitos e desafios, e está organizado em pastas numeradas na raiz deste repositório.
