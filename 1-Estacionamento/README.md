@@ -7,7 +7,7 @@
 ## Descrição
 
 - Sistema de estacionamento que permite a entrada e saída de veículos, com cálculo de valor a ser pago
-- Continuação do projeto [**Estacionamento**](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio) 
+- Continuação do projeto [**trilha-net-fundamentos-desafio**](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio) 
 
 ## 🚗 Como rodar o projeto
 
