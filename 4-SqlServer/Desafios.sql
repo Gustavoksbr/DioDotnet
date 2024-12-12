@@ -12,6 +12,8 @@ Select * from Filmes WHERE Nome = 'De Volta para o Futuro';
     
 -- Desafio 4
 
+SELECT * FROM Filmes WHERE ANO =1997;    
+    
 -- Desafio 5
 
 -- Desafio 6
