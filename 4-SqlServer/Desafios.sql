@@ -3,6 +3,8 @@
 Select Nome,Ano from Filmes 
 
 -- Desafio 2
+
+Select Nome,Ano from Filmes Order by Ano;
     
 -- Desafio 3
 
