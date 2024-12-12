@@ -1,6 +1,6 @@
 ﻿-- Desafio 1
 
-Select Nome,Ano from Filmes 
+Select Nome,Ano from Filmes;
 
 -- Desafio 2
 
@@ -8,6 +8,8 @@ Select Nome,Ano from Filmes Order by Ano;
     
 -- Desafio 3
 
+Select * from Filmes WHERE Nome = 'De Volta para o Futuro';    
+    
 -- Desafio 4
 
 -- Desafio 5
