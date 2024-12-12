@@ -1,5 +1,7 @@
 ﻿-- Desafio 1
 
+Select Nome,Ano from Filmes 
+
 -- Desafio 2
     
 -- Desafio 3
