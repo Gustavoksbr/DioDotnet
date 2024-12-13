@@ -2,13 +2,21 @@
 
 ## ← [Voltar a raiz](../README.md)
 
+![MinimalApi](../docs/5-MinimalApis/ImagemNaDio.png)
+
+## Descrição
+
 - Continuação do projeto [minimal-api](https://github.com/digitalinnovationone/minimal-api)
+- Sistema de autenticação de usuários com JWT + gerencimaento de veículos
 
 ## Como rodar o projeto
 
 Para rodar o projeto, siga os passos abaixo:
 
-1. Esteja dentro da pasta da raiz deste projeto
+1. Esteja dentro da pasta `minimal-api`:
+   ```
+   cd 5-MinimalApis/minimal-api
+   ```
 2. Restaure as dependências do projeto executando o comando:
     ```bash
     dotnet restore
@@ -33,11 +41,12 @@ Para rodar o projeto, siga os passos abaixo:
     ```bash
     dotnet ef database update
     ```
-<!--  7. Compile o projeto executando o comando:
+
+<!--  x. Compile o projeto executando o comando:
     ```bash
     dotnet build
     ```
-8. Finalmente, execute o projeto:
+y. Finalmente, execute o projeto:
     ```bash
     dotnet run
     ``` -->
