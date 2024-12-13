@@ -1,6 +1,8 @@
-﻿using minimal_api.Dominio.Entidades;
 
-namespace MinimalApi.Dominio.Interfaces;
+using minimal_api.Dominio.Entidades;
+using minimal_api.Dominio.DTOs;
+
+namespace minimal_api.Dominio.Interfaces;
 
 public interface IVeiculoServico
 {
