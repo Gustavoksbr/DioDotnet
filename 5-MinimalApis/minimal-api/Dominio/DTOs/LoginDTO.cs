@@ -2,6 +2,6 @@
 
 public class LoginDTO
 {
-    public string Email;
-    public string Senha;
+    public string Email { get;set; } = default!;
+    public string Senha { get;set; } = default!;
 }
