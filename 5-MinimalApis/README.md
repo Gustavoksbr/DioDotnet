@@ -41,12 +41,10 @@ Para rodar o projeto, siga os passos abaixo:
     ```bash
     dotnet ef database update
     ```
-
-<!--  x. Compile o projeto executando o comando:
-    ```bash
-    dotnet build
-    ```
-y. Finalmente, execute o projeto:
+7. Execute o projeto:
     ```bash
     dotnet run
-    ``` -->
+    ``` 
+   
+## Testando os endpoints
+
