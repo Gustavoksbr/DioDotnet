@@ -2,6 +2,8 @@
 
 ## ← [Voltar a raiz](../README.md)
 
+![SqlServer](../docs/4-SqlServer/ImagemNaDio.png)
+
 ## Descrição
 
 - Fazendo consultas sql com Sql Server sobre uma modelagem de filmes
